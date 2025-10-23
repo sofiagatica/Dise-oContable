@@ -1,0 +1,25 @@
+# Archivos del sistema
+AppData/
+.vscode/
+node_modules/
+*.log
+*.tmp
+*.temp
+
+# Archivos de Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Archivos de desarrollo
+*.swp
+*.swo
+*~
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Archivos temporales
+*.tmp
+*.temp
